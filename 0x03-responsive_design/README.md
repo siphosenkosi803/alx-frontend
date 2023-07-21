@@ -1637,3 +1637,4 @@ Repo:
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
 File: 10-index.html, 10-styles.css
+
